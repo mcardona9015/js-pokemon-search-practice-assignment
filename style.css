@@ -55,4 +55,6 @@ input:focus {
 
 .flip-image {
   color: #2d72fc;
+  margin: auto;
+  width: 96px;
 }
